@@ -1,0 +1,189 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2021.1/examples
+T_opt
+Z1 !s110 1710280327
+VK[jY>kJTomK;3YOb7:QS11
+04 10 4 work UART_TX_TB fast 0
+=1-7c4d8f057455-65f0ce87-1c0-4308
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vController_TX
+R1
+!i10b 1
+!s100 AW:FK<WHP`bLlQ9@zY=]S0
+I1DTzYU^YV3N5CM[k49kXa3
+Z3 dD:/ASU/Digital_IC_STUDY/Temsah/System/Specs_Documents/UART_TX/Verilog Files
+w1710269238
+8Controller_TX.v
+FController_TX.v
+!i122 32
+L0 1 110
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1710280327.000000
+Z7 !s107 UART_TX_TB.sv|UART_TX.v|UART_Mux.v|Serializer.v|Parity_Calc.v|Controller_TX.v|
+Z8 !s90 -reportprogress|300|Controller_TX.v|Parity_Calc.v|Serializer.v|UART_Mux.v|UART_TX.v|UART_TX_TB.sv|+cover|
+!i113 0
+Z9 !s102 +cover
+Z10 o+cover -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@controller_@t@x
+vParity_Calc
+R1
+!i10b 1
+!s100 :SY[V3CaR]z1ho_egRl2h3
+IL;AnLR[JM^L3LDnHXbA0M2
+R3
+w1710273686
+8Parity_Calc.v
+FParity_Calc.v
+!i122 32
+L0 1 27
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R2
+n@parity_@calc
+vSerializer
+R1
+!i10b 1
+!s100 o@HYj[2XT3DZ]3dQa;1N22
+IgN1kn_9^Q;^4Y_DF`;oQj2
+R3
+w1710269905
+8Serializer.v
+FSerializer.v
+!i122 32
+L0 1 44
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R2
+n@serializer
+vUART_Mux
+R1
+!i10b 1
+!s100 VB^7=FG2KONcU?=9dh26a3
+IznDATkIn]`D[P`_g6glTh0
+R3
+w1710273640
+8UART_Mux.v
+FUART_Mux.v
+!i122 32
+L0 1 20
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R2
+n@u@a@r@t_@mux
+vUART_TX
+R1
+!i10b 1
+!s100 6bXMDON[0`PX<Fzge;SCP1
+In7TV8zW?1LOjJRnaQaN4C1
+R3
+w1710275947
+8UART_TX.v
+FUART_TX.v
+!i122 32
+L0 1 32
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R2
+n@u@a@r@t_@t@x
+vUART_TX_TB
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R1
+!i10b 1
+!s100 hRcSD;6T:E];d:2I^>Aad0
+IZ<_4z^?i1Jj7WUFUm:;VZ0
+S1
+R3
+w1710280307
+8UART_TX_TB.sv
+FUART_TX_TB.sv
+!i122 32
+L0 2 197
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R2
+n@u@a@r@t_@t@x_@t@b
